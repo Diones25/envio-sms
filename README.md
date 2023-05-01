@@ -1,0 +1,1 @@
+Api de envio de SMS com integração com servidor da https://www.vonage.com/
